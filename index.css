@@ -1,0 +1,74 @@
+*{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+    list-style: none;
+    text-decoration: none;
+}
+.container{
+    width: 1120px;
+    margin: auto;
+    margin-top: 30px;
+
+}
+.header{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+.list-item{
+    display: flex;
+    gap: 30px;
+}
+.list-1{
+    font-weight: 700;
+    font-size: 20px;
+    color: red;
+    line-height: 24px;
+}
+.list-2{
+    font-weight: 700;
+    font-size: 20px;
+    color: pink;
+    line-height: 24px;
+}
+.list-3{
+    font-weight: 700;
+    font-size: 20px;
+    color: blue;
+    line-height: 24px;
+}
+.list-4{
+    font-weight: 700;
+    font-size: 20px;
+    color: yellowgreen;
+    line-height: 24px;
+}
+.list-5{
+    font-weight: 700;
+    font-size: 20px;
+    color: orange;
+    line-height: 24px;
+}
+.list-6{
+    font-weight: 700;
+    font-size: 20px;
+    color: blueviolet;
+    line-height: 24px;
+}
+.girl-img{
+ width: 700px;
+ margin: auto;
+}
+.girl{
+    position: absolute;
+}
+.bigger{
+    font-family: weestep;
+    color: #FD6B28;
+    position: relative;
+    padding-top: 300px;
+    font-size: 200px;
+    text-align: center;
+    line-height: 240px;
+}
